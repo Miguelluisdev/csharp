@@ -1,0 +1,15 @@
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\bin\Debug\net8.0\InfoUsers.exe
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\bin\Debug\net8.0\InfoUsers.deps.json
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\bin\Debug\net8.0\InfoUsers.runtimeconfig.json
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\bin\Debug\net8.0\InfoUsers.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\bin\Debug\net8.0\InfoUsers.pdb
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.AssemblyInfoInputs.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.AssemblyInfo.cs
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.csproj.CoreCompileInputs.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.sourcelink.json
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\refint\InfoUsers.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.pdb
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\InfoUsers.genruntimeconfig.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\InfoUsers\obj\Debug\net8.0\ref\InfoUsers.dll
