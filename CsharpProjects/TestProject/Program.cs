@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Structs 
+namespace StructsElistas 
 {
     internal class Program 
     {
@@ -21,6 +21,15 @@ namespace Structs
         meuCadatro.Nome = "darius";
         meuCadatro.SobreNome = "lannister";
         meuCadatro.Idade = 19;
+
+        List<string> ListaDeNomes = new List<string>();
+         ListaDeNomes.Add("joão");
+         ListaDeNomes.Add("joão");
+         ListaDeNomes.Add("joão"); 
+         foreach (string str in ListaDeNomes) 
+         {
+            Console.WriteLine(str);
+         }
     }
         
     }
