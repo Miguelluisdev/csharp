@@ -1,0 +1,15 @@
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.AssemblyInfoInputs.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.AssemblyInfo.cs
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.csproj.CoreCompileInputs.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.sourcelink.json
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\bin\Debug\net8.0\date-hours.exe
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\bin\Debug\net8.0\date-hours.deps.json
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\bin\Debug\net8.0\date-hours.runtimeconfig.json
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\bin\Debug\net8.0\date-hours.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\bin\Debug\net8.0\date-hours.pdb
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\refint\date-hours.dll
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.pdb
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\date-hours.genruntimeconfig.cache
+C:\Users\Miguel2005\Documents\estudos\csharp\date-hours\obj\Debug\net8.0\ref\date-hours.dll
