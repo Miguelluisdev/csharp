@@ -38,6 +38,8 @@ namespace DateHours
             DateTime futureDate = new DateTime(2025, 2, 22);
             TimeSpan timeLeft = futureDate - todayt;
             Console.WriteLine($"Time Left: {timeLeft}");
+
+            CalculateTimeSpan();
         }
     }
 }
