@@ -30,10 +30,24 @@ namespace NameSpace
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // encapsulamento
             Persona p = new Persona("Joao", 20);
             p.showInfo();
+
+            // herança
             Animal meuCachorro = new Cachorro("Rex");
             meuCachorro.EmitirSom();
+
+            // polimorfismo
+            IForma forma = new Circulo(5);
+            Console.WriteLine(forma.CalcularArea());
+            forma = new Retangulo(5, 10);
+            Console.WriteLine(forma.CalcularArea());
+
+            BankAccount conta = new BankAccount();
+            conta.Depositar(1000);
+            conta.Sacar(500);
 
         }
     }
